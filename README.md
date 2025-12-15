@@ -99,3 +99,4 @@ The database file can be backed up like a normal file.
 This implementation can be extended later (e.g., separate reports, user accounts) but is deliberately kept minimal to stay aligned with the case study focus.
 
 
+
